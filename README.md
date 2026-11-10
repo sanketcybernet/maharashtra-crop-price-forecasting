@@ -151,6 +151,17 @@ The application uses the following input features:
 
 **Target Variable:** `Modal_Price` (₹ per quintal).
 
+## 📸 Application Screenshots
+
+### 1. Crop Price Prediction
+![Prediction Result](screenshots/prediction.png)
+
+### 2. Historical Price Trends
+![Historical Price Graph](screenshots/price-history.png)
+
+### 3. Recent Price Records and Model Performance
+![Model Performance](screenshots/model-performance.png)
+
 ## 📈 Future Improvements
 
 - Integrate a live agricultural market data API.
